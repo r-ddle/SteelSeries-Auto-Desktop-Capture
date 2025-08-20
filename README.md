@@ -10,7 +10,7 @@
 I got fed up of waiting for SteelSeries to add an auto desktop capture because the software never recognizes old games or sometimes indie games. So I have to manually enable desktop capture every. single time. 
 This script is aimed to make the processs easier by automatically enabling it when you start your PC.
 
-[![Demo Video](https://i.imgur.com/RCteTgi.png)](https://github.com/r-ddle/SteelSeries-Auto-Desktop-Capture/blob/main/Demo/demo.mp4)
+[![Demo Video](https://s6.ezgif.com/tmp/ezgif-68a5e6a4b48422.gif)](https://github.com/r-ddle/SteelSeries-Auto-Desktop-Capture/blob/main/Demo/demo.mp4)
 
 ## ✨ Features
 
